@@ -1,0 +1,8 @@
+# Site settings
+title: Hexagonal Chess
+author:
+  name: Konrad Leszczyński
+description: "Hexagonal Chess"
+
+# Build settings
+remote_theme: jekyll/minima
