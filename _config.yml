@@ -2,7 +2,7 @@
 title: Hexagonal Chess
 author:
   name: Konrad Leszczyński
-description: "Hexagonal Chess"
+description: "Hexagonal Chess support page"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/merlot
