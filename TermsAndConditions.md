@@ -1,6 +1,6 @@
-# Hexagonal Chess Chess
+# Hexagonal Chess
 
-## Terms and Conditions for Hexagonal Chess Chess
+## Terms and Conditions for Hexagonal Chess
 
 ### 1. Acceptable Use
 By using Hexagonal Chess Chess, you agree to the following terms:

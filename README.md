@@ -1,8 +1,11 @@
 # Hexagonal Chess
 
-
-[Terms and Conditions](TermsAndConditions.md)
+[Support](Support.md)
 
 [Marketing](Marketing.md)
 
-[Support](Support.md)
+[Terms and Conditions](TermsAndConditions.md)
+
+[Privacy](Privacy.md)
+
+
