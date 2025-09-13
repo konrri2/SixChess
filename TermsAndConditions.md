@@ -3,7 +3,7 @@
 ## Terms and Conditions for Hexagonal Chess
 
 ### 1. Acceptable Use
-By using Hexagonal Chess Chess, you agree to the following terms:
+By using Hexagonal Chess, you agree to the following terms:
 - You may play the game for personal entertainment purposes only.
 - You must not reverse engineer, or modify the game without explicit permission.
 
@@ -11,8 +11,8 @@ By using Hexagonal Chess Chess, you agree to the following terms:
 - You may not reproduce, distribute, or create derivative works without authorization.
 
 ### 3. Liabilities
-- We are not liable for any damages or losses resulting from your use of Hexagonal Chess Chess.
+- We are not liable for any damages or losses resulting from your use of Hexagonal Chess.
 - You play the game at your own risk.
 
 ### 4. Privacy
-Since Hexagonal Chess Chess doesn’t collect any user data, no privacy policy is required.
+Since Hexagonal Chess doesn’t collect any user data, no privacy policy is required.
