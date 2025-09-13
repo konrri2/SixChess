@@ -8,6 +8,7 @@ For details see Wikipedia: [Gliński's hexagonal chess](https://en.wikipedia.org
 ### This is a one-person fun project
 ### If you have questions or suggestions - contact me on social media
 
-[Discord server](https://discord.gg/jFXdp6xU)
+[Discord server](https://discord.gg/eZcUmPmnMu)
 
+About the author
 [linkedin profile](https://www.linkedin.com/in/konrad-leszczynski-a856002/)
